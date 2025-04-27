@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Server-Sent Events in React](https://sitmcella.github.io/post_20250427)
 - [Prometheus Scrape Metrics](https://sitmcella.github.io/post_20250322)
 - [Telemetry Traces with Grafana Tempo](https://sitmcella.github.io/post_20250301)
 
