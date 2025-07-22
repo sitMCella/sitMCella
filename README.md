@@ -12,11 +12,11 @@
 
 <h2>Latest Blog posts</h2>
 
-- [Python and Cobol Integration](https://sitmcella.github.io/post_20250626)
-- [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/post_20250525)
-- [Server-Sent Events in React](https://sitmcella.github.io/post_20250427)
-- [Prometheus Scrape Metrics](https://sitmcella.github.io/post_20250322)
-- [Telemetry Traces with Grafana Tempo](https://sitmcella.github.io/post_20250301)
+- [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
+- [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
+- [Server-Sent Events in React](https://sitmcella.github.io/?/post_20250427)
+- [Prometheus Scrape Metrics](https://sitmcella.github.io/?/post_20250322)
+- [Telemetry Traces with Grafana Tempo](https://sitmcella.github.io/?/post_20250301)
 
 <!-- Connect section -->
 
