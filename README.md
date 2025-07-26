@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
 - [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
 - [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
 - [Server-Sent Events in React](https://sitmcella.github.io/?/post_20250427)
