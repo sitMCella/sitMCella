@@ -12,6 +12,8 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
+- [Azure Firewall Policy Update Automation](https://sitmcella.github.io/?/post_20251207)
 - [Azure Firewall Manual Updates and IaC](https://sitmcella.github.io/?/post_20251026)
 - [Azure PostgreSQL Backup with WAL-G](https://sitmcella.github.io/?/post_20250823)
 - [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
@@ -19,7 +21,6 @@
 - [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
 - [Server-Sent Events in React](https://sitmcella.github.io/?/post_20250427)
 - [Prometheus Scrape Metrics](https://sitmcella.github.io/?/post_20250322)
-- [Telemetry Traces with Grafana Tempo](https://sitmcella.github.io/?/post_20250301)
 
 <!-- Connect section -->
 
