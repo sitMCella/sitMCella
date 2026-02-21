@@ -36,11 +36,7 @@
  
 <h2>GitHub Stats</h2>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=sitMCella" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitMCella)
+![Stats](./profile/stats.svg)
 
 <!--
 **sitMCella/sitMCella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
