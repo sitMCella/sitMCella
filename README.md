@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Reactive Streams with Spring WebFlux](https://sitmcella.github.io/?/post_20260221)
 - [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
 - [Azure Firewall Policy Update Automation](https://sitmcella.github.io/?/post_20251207)
 - [Azure Firewall Manual Updates and IaC](https://sitmcella.github.io/?/post_20251026)
@@ -20,7 +21,6 @@
 - [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
 - [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
 - [Server-Sent Events in React](https://sitmcella.github.io/?/post_20250427)
-- [Prometheus Scrape Metrics](https://sitmcella.github.io/?/post_20250322)
 
 <!-- Connect section -->
 
