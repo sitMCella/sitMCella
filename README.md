@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Terrain Generation with OpenSimplex 2](https://sitmcella.github.io/?/post_20260426)
 - [Reactive Streams with Spring WebFlux](https://sitmcella.github.io/?/post_20260221)
 - [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
 - [Azure Firewall Policy Update Automation](https://sitmcella.github.io/?/post_20251207)
@@ -20,7 +21,6 @@
 - [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
 - [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
 - [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
-- [Server-Sent Events in React](https://sitmcella.github.io/?/post_20250427)
 
 <!-- Connect section -->
 
