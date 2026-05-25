@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Rust and WebAssembly](https://sitmcella.github.io/?/post_20260525)
 - [Terrain Generation with OpenSimplex 2](https://sitmcella.github.io/?/post_20260426)
 - [Reactive Streams with Spring WebFlux](https://sitmcella.github.io/?/post_20260221)
 - [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
@@ -20,7 +21,6 @@
 - [Azure PostgreSQL Backup with WAL-G](https://sitmcella.github.io/?/post_20250823)
 - [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
 - [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
-- [PostgreSQL Triggers and notify/listen](https://sitmcella.github.io/?/post_20250525)
 
 <!-- Connect section -->
 
