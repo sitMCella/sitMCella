@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Bus Map Simulation](https://sitmcella.github.io/?/post_20260628)
 - [Rust and WebAssembly](https://sitmcella.github.io/?/post_20260525)
 - [Terrain Generation with OpenSimplex 2](https://sitmcella.github.io/?/post_20260426)
 - [Reactive Streams with Spring WebFlux](https://sitmcella.github.io/?/post_20260221)
