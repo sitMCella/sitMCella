@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [Graphic Design Editor Application](https://sitmcella.github.io/?/post_20260919)
 - [NGINX Ingress Controller Migration](https://sitmcella.github.io/?/post_20260726)
 - [Bus Map Simulation](https://sitmcella.github.io/?/post_20260628)
 - [Rust and WebAssembly](https://sitmcella.github.io/?/post_20260525)
