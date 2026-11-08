@@ -37,9 +37,9 @@
  
 <h2>GitHub Stats</h2>
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg?v=2)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg?v=2)
 
 <!--
 **sitMCella/sitMCella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
