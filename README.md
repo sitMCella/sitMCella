@@ -22,8 +22,6 @@
 - [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
 - [Azure Firewall Policy Update Automation](https://sitmcella.github.io/?/post_20251207)
 - [Azure Firewall Manual Updates and IaC](https://sitmcella.github.io/?/post_20251026)
-- [Azure PostgreSQL Backup with WAL-G](https://sitmcella.github.io/?/post_20250823)
-- [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
 
 <!-- Connect section -->
 
