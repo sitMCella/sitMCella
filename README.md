@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [PgBouncer for PostgreSQL](https://sitmcella.github.io/?/post_20261024)
 - [Graphic Design Editor Application](https://sitmcella.github.io/?/post_20260919)
 - [NGINX Ingress Controller Migration](https://sitmcella.github.io/?/post_20260726)
 - [Bus Map Simulation](https://sitmcella.github.io/?/post_20260628)
@@ -23,7 +24,6 @@
 - [Azure Firewall Manual Updates and IaC](https://sitmcella.github.io/?/post_20251026)
 - [Azure PostgreSQL Backup with WAL-G](https://sitmcella.github.io/?/post_20250823)
 - [Azure PostgreSQL Backup Automation](https://sitmcella.github.io/?/post_20250726)
-- [Python and Cobol Integration](https://sitmcella.github.io/?/post_20250626)
 
 <!-- Connect section -->
 
