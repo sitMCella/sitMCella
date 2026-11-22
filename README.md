@@ -12,6 +12,7 @@
 
 <h2>Latest Blog posts</h2>
 
+- [GPG File Encryption](https://sitmcella.github.io/?/post_20261122)
 - [PgBouncer for PostgreSQL](https://sitmcella.github.io/?/post_20261024)
 - [Graphic Design Editor Application](https://sitmcella.github.io/?/post_20260919)
 - [NGINX Ingress Controller Migration](https://sitmcella.github.io/?/post_20260726)
@@ -21,7 +22,6 @@
 - [Reactive Streams with Spring WebFlux](https://sitmcella.github.io/?/post_20260221)
 - [Toggl and Trello KPI Dashboard](https://sitmcella.github.io/?/post_20260125)
 - [Azure Firewall Policy Update Automation](https://sitmcella.github.io/?/post_20251207)
-- [Azure Firewall Manual Updates and IaC](https://sitmcella.github.io/?/post_20251026)
 
 <!-- Connect section -->
 
